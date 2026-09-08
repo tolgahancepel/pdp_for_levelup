@@ -1,0 +1,2 @@
+INFO:MyLogger:START: Function 'greetings' called with args=('Tolgahan',), kwargs={}
+INFO:MyLogger:SUCCESS: Function 'greetings' returned None | Execution time: 2.0053s
